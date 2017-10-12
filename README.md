@@ -24,6 +24,10 @@ pursuing our own dreams and goals, it is also about being passionate about yours
 serves as an introduction to what we - as a company - believe in, what we are, and what we want to
 become.
 
+![DNA](images/dna.png "Evolve")
+
+*When something new is born, things start to change more rapidly and creativity flows.*
+
 ## Introduction
 
 We want to welcome you to Evolve Technology, let your journey begin! Congratulations for passing
@@ -56,6 +60,10 @@ around projects we usually assign ourselves roles, responsibilities and commitme
 of the project. That means you can easily try out a new role if you want to push yourself, or even take
 a step back for the next project if life just seems too busy. 
 
+![DNA](images/mandela.png "Evolve")
+
+*The collective intelligence always works from equal points and from there everything flows.*
+
 ## In it for the long run
 
 We’re not in the business of burning people out, or exploiting our colleagues with a goal of
@@ -70,6 +78,10 @@ promote balance and happiness. The key takeaway is that we truly believe that as
 projects should always consider the individual's own passion, interests and life situation. Anything
 else would be short sighted. And hey, don't forget to have fun along the way!
 
+![DNA](images/balans.png "Evolve")
+
+*Harmony between whats important in life. The things you love and live for.*
+
 ## An evolving company
 
 At some companies you’re told to keep your personal opinions to yourself. That could not be further
@@ -81,6 +93,10 @@ a constant, open dialogue about what we can improve and change. Reading this you
 our newest colleagues - use that to your advantage, often the best new ideas comes from someone
 with a fresh pair of eyes. We like to think of Evolve as a living organism, which adapts and changes
 over time, always improving. 
+
+![DNA](images/snacka.png "Evolve")
+
+*Together we grow and evolve. Strong and vibrant.*
 
 ## Knowledge sharing
 
@@ -104,6 +120,11 @@ always guide our decisions; we don’t hire just to make fast and easy money.
 We only hire highly skilled individuals. It’s not about the years you have been working; it’s about who
 you are and what value you bring to the table. When we are looking for a new colleague we look
 beyond the technical skills.
+
+![DNA](images/hander.png "Evolve")
+
+*A passionate team creating true value.*
+
 At Evolve we are strong believers in human equality. For us, diversity is more than just being willing
 to hire and work with everyone. It’s about accepting, celebrating and valuing all persons, regardless
 of race, gender, sexual orientation, religion, age etc. We value you just as you are!
@@ -159,6 +180,10 @@ colleagues, improving us and our customers?
 We believe that these metrics offer a wide range of ways in which you can add value to our customers
 and us.
 
+![DNA](images/pratbubblor.png "Evolve")
+
+*Share what you have. Together we create it all.*
+
 ## Career advancement at Evolve 
 
 We are looking for ambitious people, so questions about career advancement are expected. As we’ve
@@ -172,6 +197,10 @@ are restricted to a select few within a company. Instead we encourage everyone t
 think that they can contribute the most, or simply just try out new things. This way we will have
 synergy effects and will always be improving in our processes at the same time as we broaden each
 individual's skillset. 
+
+![DNA](images/blommor.png "Evolve")
+
+*Here you can bloom in ways you might not have thought of, or the way you've had in mind in your own pace.*
 
 You will be surrounded with a multidisciplinary group of people, all with great knowledge and
 experience within different fields. This is one of the advantages you will have at Evolve, the
@@ -256,3 +285,7 @@ With every initiative, project, team and line of code, we will make an impact. S
 with you, beacause of you. Rest asured it will be an awesome ride.
 
 We are different. We make a difference. We are Evolve.
+
+![DNA](images/androgyn.png "Evolve")
+
+*The right person at the right place.*
